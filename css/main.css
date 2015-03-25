@@ -1,0 +1,108 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.glowna {
+background-color: #eee;
+}
+
+.navbar-right {
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+.navbar-brand {
+font-weight: bold;
+}
+
+a {
+color: #6A2977;
+}
+
+a:hover {
+color: #6A2977;
+}
+
+.nav .caret {
+border-top-color: #6A2977;
+border-bottom-color: #6A2977;
+}
+
+.nav a:hover .caret {
+border-top-color: #6A2977;
+border-bottom-color: #6A2977;
+}
+
+.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus, .dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus {
+background-color: #6A2977;
+background-image: #6A2977;
+}
+
+#logo {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+#plan th,td {
+text-align:center;
+vertical-align:middle;
+}
+
+#przedmioty_lista th,td {
+text-align:center;
+vertical-align:middle;
+}
+
+.navbar-toggle .icon-bar {
+background-color: #6A2977;
+}
+
+.navbar-toggle {
+border: 1px solid #6A2977;
+}
+
+.rola {
+font-style: italic;
+}
+
+.dropdown-menu li > a:hover, .dropdown-menu li > a:focus, .dropdown-submenu:hover > a {
+background-image: none;
+background-color: #6A2977;
+}
+
+.jumbotron-front {
+padding: 30px;
+margin-bottom: 30px;
+font-size: 21px;
+font-weight: 200;
+line-height: 2.1428571435;
+color: inherit;
+background-color: #eee;
+padding-top: 48px;
+padding-bottom: 48px;
+}
+
+.jumbotron-front h1 {
+font-size: 63px;
+line-height: 1;
+color: inherit;
+}
+
+.jumbotron-front p {
+line-height: 1.4;
+}
+
+.jumbotron {
+color: #fff;
+background-color: #6A2977;
+}
+
+/*
+.btn-default:hover {
+background-color: #6A2977;
+color: #fff;
+text-shadow: 0 1px 0 #000;
+}
+*/

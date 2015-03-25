@@ -1,0 +1,1 @@
+$('a[href="' + location.pathname.replace('/','') + '"]').parent().addClass('active');
